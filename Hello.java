@@ -2,7 +2,7 @@ public class Hello{
     public static void main(String[] args){
         for(int i=0;i<10;i++)
         {
-            System.out.println("Fun String!@#!@#"+i);
+            System.out.println("changed1"+i);
             System.out.println("x!#!@#");
         }
     }
